@@ -1,0 +1,4 @@
+##prevent access to private folder
+<Files *.php>
+    Deny from all
+</Files>
